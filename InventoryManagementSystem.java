@@ -9,7 +9,6 @@ public class InventoryManagementSystem {
     public InventoryManagementSystem() {
         inventory = new ArrayList<>();
     }
-
     // Method to add a new item to the inventory
     public void addItem() {
         Scanner scanner = new Scanner(System.in);
